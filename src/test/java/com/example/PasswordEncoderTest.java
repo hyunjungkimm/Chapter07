@@ -30,6 +30,7 @@ public class PasswordEncoderTest {
         member.setRole(Role.ROLE_MANAGER);
         member.setEnabled(true);
         memberRepository.save(member);
+
     }
 }
 
