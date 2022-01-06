@@ -32,3 +32,4 @@ public class PasswordEncoderTest {
         memberRepository.save(member);
     }
 }
+
